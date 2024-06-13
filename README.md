@@ -11,6 +11,9 @@
 - Clone repo using git Clone
     - git clone https://github.com/shantanu200/Movie_Mania.git
 
+- Move to dir
+    - cd Movie_Mania
+
 - Install all dependenices using 
     - yarn install / npm install
 
